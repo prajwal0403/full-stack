@@ -1,0 +1,38 @@
+{
+    "flats":[
+        {
+            "id":1,
+            "type":"owner",
+            "block":"A",
+            "no":101,
+            "residents":[{
+        "name":"Prajwal Raut",
+         "age":22,
+          "gender":"male"
+        },
+    {
+        "name":"Ujwal Raut",
+        "age":18,
+         "gender":"male"
+    },
+ {
+    "name":"Anil Raut",
+    "age":45,
+     "gender":"male"
+ },
+ { "name":"Anita Raut",
+    "age":43,
+     "gender":"female"}]
+        },
+
+{       "id":2,
+        "type":"Tenant",
+        "block":"A",
+        "no":102,
+        "residents":[{
+        "name":"Shiva Raut",
+         "age":28,
+          "gender":"male"
+        }]
+    
+}]}
