@@ -26,7 +26,7 @@ const {isAuth} = useSelector((state) => state.login)
         </PrivateRouter>}/>
         <Route path='/login' element={<Login/>} />
         <Route path='/sign' element={<Sign/>} />
-        <Route path='/flats/:id' element={<Details/>} />
+        <Route path='/flats/:no' element={<Details/>} />
 
     </Routes>
 

@@ -29,9 +29,9 @@ export const Login = () => {
             dispatch(login_err())
           });
   };
-  if(token===""){
-    return <Navigate to="/sign"/>
-  }
+//   if(token===""){
+//     return <Navigate to="/sign"/>
+//   }
 
   return (
     <div>
